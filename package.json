@@ -1,5 +1,6 @@
 {
   "name": "bubble-game",
+  "homepage":"https://sonai-2001.github.io/bubble-game/",
   "private": true,
   "version": "0.0.0",
   "type": "module",

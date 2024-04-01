@@ -14,7 +14,7 @@ useEffect(()=>{
 return (
 <div className="flex flex-col items-center justify-center w-[30%] h-[30%]  gap-10">
     <h1 className='text-center  w-full'>high score is {val}</h1>
-    <Link to="/" className=" rounded-md bg-sky-200 text-2xl text-red-300">Home</Link>
+    <Link to="/bubble-game" className=" rounded-md bg-sky-200 text-2xl text-red-300">Home</Link>
 
 
 </div>
