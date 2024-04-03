@@ -22,7 +22,7 @@ function Box(){
         {return}
         const timer = setInterval(()=>{
           setTime(time-1)
-        },30000)
+        },3000)
         return ()=>{
           clearInterval(timer)
 
